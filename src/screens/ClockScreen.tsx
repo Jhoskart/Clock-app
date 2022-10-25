@@ -48,15 +48,15 @@ const ClockScreen = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#264653',
+        backgroundColor: '#15616d',
         alignItems: 'center',
         justifyContent: 'center',
         
     },
     clockContainer:{
         flex: 1,
-        backgroundColor: '#e9c46a',
-        marginTop: 50,
+        backgroundColor: '#001524',
+        marginTop: 100,
         width: 300,
         height: 300,
         borderRadius: 150,

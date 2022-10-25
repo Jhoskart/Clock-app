@@ -70,27 +70,28 @@ const TimerScreen = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#264653',
+        backgroundColor: '#15616d',
         alignItems: 'center',
-        justifyContent: 'center',
     },
     text: {
         fontSize: 50,
-        color: '#e9c46a',
+        color: '#ffecd1',
     },
     buttonContainer: {
         flexDirection: 'row',
-        justifyContent: 'space-between',
-        marginTop: 20,
+        justifyContent: 'space-around',
+        width: '55%',
+        marginTop: 30,
     },
     button: {
-        backgroundColor: '#e9c46a',
-        padding: 10,
+        backgroundColor: '#ffecd1',
+        padding: 5,
         borderRadius: 5,
     },
     buttonText: {
         fontSize: 20,
-    }
+    },
+    
 });
 
 export default TimerScreen
