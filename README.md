@@ -1,25 +1,13 @@
-# Clock App Exercise
+# Clock App 
 
-Hi! Welcome to the real-time exercise of Neat's interview. 
+Esta es mi primera aplicacion con React-native y Typescript, fue hecha para una prueba tecnica en la que se tenia que desarrollar
+un reloj funcional consumiendo una API del tiempo, la cual ofrecia diferente informacion acerca del pais
 
-**Please read all this file first**
+De igual forma se integro un cronometro sencillo usando Hooks en React de forma sencilla para empezar, detener y resetear el cronometro
 
-## Configuration
+# Para correr la app
 
-The first thing is to configure your environment. To do this you need to follow the next steps:
+Necesitas clonar este repositorio y abrirlo en tu editor de codigo de preferencia, luego abrir la consola y correr el comando npm install
+siguiendo estos pasos necesitas abrir un emulador de Android como el que te ofrece Android Studio, y luego en la consola del proyecto correr el siguiente comando npx react-native run-android y podras ver la app en tu emulador.
 
-1. Go to [React Native page](https://reactnative.dev/docs/environment-setup), and follow the configuration steps of **React Native CLI Quickstart**, depending on your OS
-and use Android as target OS.
-  *If you have problems while installing the JDK you can manually download it at [Oracle](https://www.oracle.com/cl/java/technologies/javase/jdk11-archive-downloads.html) and add manually the environment variable **JAVA_HOME**
-
-2. Clone the git repository with `git clone https://github.com/javier-benavide/clock-app.git`
-
-3. Install the dependencies with "yarn install" in the cloned repo
-
-## Exercise
-
-For the real-time exercise you need to build a mobile App with React Native and Typescript that 
-
-show a visualization of a clock.
-
-You will find more details of the exercise inside the file [App.tsx](https://github.com/javier-benavide/clock-app/blob/main/App.tsx)
+Espero que sea de guia este repositorio y que disfrutes de correr la app (: 
