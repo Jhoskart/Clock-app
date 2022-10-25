@@ -11,3 +11,9 @@ Necesitas clonar este repositorio y abrirlo en tu editor de codigo de preferenci
 siguiendo estos pasos necesitas abrir un emulador de Android como el que te ofrece Android Studio, y luego en la consola del proyecto correr el siguiente comando npx react-native run-android y podras ver la app en tu emulador.
 
 Espero que sea de guia este repositorio y que disfrutes de correr la app (: 
+
+## Clock img
+
+<p align='center'>
+    <img height='600rem' width='500' src='./src/assets/img.png' />
+</p>
